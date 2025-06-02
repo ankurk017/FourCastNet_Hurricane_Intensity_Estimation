@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Large model checkpoint files
+bias_correction_checkpoints_ERA/UNet_checkpoints.pth
+bias_correction_checkpoints_MERRA/UNet_checkpoints.pth
