@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/994820172.svg)](https://doi.org/10.5281/zenodo.15707324)
+
+
 # FourCastNet Hurricane Intensity Estimation
 
 This repository contains code and resources for estimating hurricane intensity using FourCastNet, a deep learning model trained on atmospheric reanalysis data. The project supports both ERA5 and MERRA reanalysis datasets.
