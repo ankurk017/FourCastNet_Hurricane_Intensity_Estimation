@@ -100,8 +100,11 @@ This project is licensed under the terms of the included LICENSE file.
 ## Citation
 
 If you use this code in your research, please cite:
-[Citation information to be added]
+
+Ankur, K. (2025). *FourCastNet Hurricane Intensity Estimation* (v1.0) [Software]. Zenodo. [https://doi.org/10.5281/zenodo.12345678](https://zenodo.org/records/15602591)
 
 ## Contact
 
-[Contact information to be added]
+Ankur Kumar
+ankurk017@gmail.com
+ankur.lumar@nasa.gov
